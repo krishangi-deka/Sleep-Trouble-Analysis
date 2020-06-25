@@ -4,7 +4,7 @@ This analysis predicts factors affecting sleep by data collected from NHANES : [
 
 To see the code, open the [.rmd file](SleepTrouble_Analysis.Rmd) on RStudio.
 
-# Software Used : R
+# Language Used : R
 
 # Packages/Libraries Used : 
 NHANES, rpart, partykit, dplyr, ROCR, ggplot2
